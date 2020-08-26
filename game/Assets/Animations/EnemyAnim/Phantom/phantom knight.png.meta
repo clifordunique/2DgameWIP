@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a89d52f533d24b945a316f8f167e38d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6411325820999085215
+    second: phantom knight_0
+  - first:
+      213: -7266853586066662452
+    second: phantom knight_1
+  - first:
+      213: -8812636408063663575
+    second: phantom knight_2
+  - first:
+      213: 3433618735366476170
+    second: phantom knight_3
+  - first:
+      213: -6350049150971415435
+    second: phantom knight_4
+  - first:
+      213: 6992791263763359064
+    second: phantom knight_5
+  - first:
+      213: 4687599817904169558
+    second: phantom knight_6
+  - first:
+      213: 673228165991292144
+    second: phantom knight_7
+  - first:
+      213: -8643602152091988046
+    second: phantom knight_8
+  - first:
+      213: 4182922139066696665
+    second: phantom knight_9
+  - first:
+      213: -6985745913328027990
+    second: phantom knight_10
+  - first:
+      213: 8585925928845328947
+    second: phantom knight_11
+  - first:
+      213: -6433844932476843077
+    second: phantom knight_12
+  - first:
+      213: 8143383913870766911
+    second: phantom knight_13
+  - first:
+      213: -6105638338140948304
+    second: phantom knight_14
+  - first:
+      213: 1970758263992098281
+    second: phantom knight_15
+  - first:
+      213: 8045784950895261834
+    second: phantom knight_16
+  - first:
+      213: 7642240745745868183
+    second: phantom knight_17
+  - first:
+      213: 7935087561737253800
+    second: phantom knight_18
+  - first:
+      213: -3901884050575316383
+    second: phantom knight_19
+  - first:
+      213: 3720080914220425929
+    second: phantom knight_20
+  - first:
+      213: 8036305730724611455
+    second: phantom knight_21
+  - first:
+      213: -4465463243786141140
+    second: phantom knight_22
+  - first:
+      213: 4880870734198369916
+    second: phantom knight_23
+  - first:
+      213: 3048918396802101852
+    second: phantom knight_24
+  - first:
+      213: 7433562258499356069
+    second: phantom knight_25
+  - first:
+      213: 3493217621822344974
+    second: phantom knight_26
+  - first:
+      213: -4743297268422174160
+    second: phantom knight_27
+  - first:
+      213: -8893255218550949519
+    second: phantom knight_28
+  - first:
+      213: -1939330326915532185
+    second: phantom knight_29
+  - first:
+      213: -5124169005796591186
+    second: phantom knight_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phantom knight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd07e8760803144dadb82b0de2c9eb4
+      internalID: 6411325820999085215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 255
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad899a53ef4ab1f4abd01f80ed9bb160
+      internalID: -7266853586066662452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 255
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498efb2be74e0143b0cb9d8b49051ef
+      internalID: -8812636408063663575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 255
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2777fbeeed72f47b59786a11eca641
+      internalID: 3433618735366476170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 255
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fce381e862a8f4e991c3a16994ef99
+      internalID: -6350049150971415435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 255
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3872956a70e5d543a66e9532949173c
+      internalID: 6992791263763359064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd8668bab87a547b6c1ab9e238b017
+      internalID: 4687599817904169558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 204
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8565817b966e6c4995706820da68da8
+      internalID: 673228165991292144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 204
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cf684ed718a7948be027119a8d997d
+      internalID: -8643602152091988046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 204
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce88aa79d18bbf44b3cc4c429020384
+      internalID: 4182922139066696665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 204
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe9c3e4c5d42004f92504b746746010
+      internalID: -6985745913328027990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 204
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdc5276c2267b84ab10874d6262015e
+      internalID: 8585925928845328947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d14d9cddd9b442b8bbbe19e1438a0
+      internalID: -6433844932476843077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 153
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff11cf3ec4f014ca3b0c948af7c706
+      internalID: 8143383913870766911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 153
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5bac1d0cb9b3b44bc239064dc5aada
+      internalID: -6105638338140948304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 153
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee49bba154e4748b2c69942c9688c3
+      internalID: 1970758263992098281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 153
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec0595d77ac7b546b92989e388e7c53
+      internalID: 8045784950895261834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 153
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe30b83e5b312084399f4bd9b506b0d8
+      internalID: 7642240745745868183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e89b430af21a8e45a8ccc42dcddee5f
+      internalID: 7935087561737253800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 102
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f5c201eb75d4428ad8cfea60b638f
+      internalID: -3901884050575316383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 102
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be824960c96c8448a1dc466f994a7cf
+      internalID: 3720080914220425929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 102
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfaba41f7f64f2439845f161f832b01
+      internalID: 8036305730724611455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 102
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e510a9d7d4014790a02b1a291305c
+      internalID: -4465463243786141140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 102
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19710fe32aa19924780281540b7e6baf
+      internalID: 4880870734198369916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84eef5fa5f61644e994ae3ea4c18b61
+      internalID: 3048918396802101852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 51
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184daf8e3ae82f541b24e912bb9b0188
+      internalID: 7433562258499356069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 51
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94899f573240f4a8d0210b6d1c4a7e
+      internalID: 3493217621822344974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 51
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc887f3ee9c5a9e46a31b5a9702412ff
+      internalID: -4743297268422174160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 51
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e6a4e9d2856a48a5b736d44c4f118
+      internalID: -8893255218550949519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_29
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 51
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf37ec6cc928640b2f37a25c1b1b9f
+      internalID: -1939330326915532185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom knight_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98e48f644c4c04f8d722d86b9a5100
+      internalID: -5124169005796591186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 905c679e7bb9e224aa7c26e86129ff98
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: a83817f5d94abe9428fd3d19b394e516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3454036058413189537
+    second: level_up_102x135_0
+  - first:
+      213: -7065446674980967489
+    second: level_up_102x135_1
+  - first:
+      213: -4196844012858689321
+    second: level_up_102x135_2
+  - first:
+      213: 7434712520758749743
+    second: level_up_102x135_3
+  - first:
+      213: 8260995008754007710
+    second: level_up_102x135_4
+  - first:
+      213: 8087773454047918778
+    second: level_up_102x135_5
+  - first:
+      213: 8380584696595592535
+    second: level_up_102x135_6
+  - first:
+      213: 2657067228840774429
+    second: level_up_102x135_7
+  - first:
+      213: -5286344951706033050
+    second: level_up_102x135_8
+  - first:
+      213: 5369247060774884803
+    second: level_up_102x135_9
+  - first:
+      213: 2447063198822146963
+    second: level_up_102x135_10
+  - first:
+      213: -5527419007691468770
+    second: level_up_102x135_11
+  - first:
+      213: 8284119128304511201
+    second: level_up_102x135_12
+  - first:
+      213: 4370965450260820009
+    second: level_up_102x135_13
+  - first:
+      213: -3090034931710107369
+    second: level_up_102x135_14
+  - first:
+      213: 7029215118494966345
+    second: level_up_102x135_15
+  - first:
+      213: -8505231899749042716
+    second: level_up_102x135_16
+  - first:
+      213: -1893856738055674040
+    second: level_up_102x135_17
+  - first:
+      213: 6968187377652674767
+    second: level_up_102x135_18
+  - first:
+      213: 8138739536577411194
+    second: level_up_102x135_19
+  - first:
+      213: 6048660316418528257
+    second: level_up_102x135_20
+  - first:
+      213: -2103149572722308952
+    second: level_up_102x135_21
+  - first:
+      213: -803125141196540368
+    second: level_up_102x135_22
+  - first:
+      213: 8673916484365150367
+    second: level_up_102x135_23
+  - first:
+      213: -1712872809878786653
+    second: level_up_102x135_24
+  - first:
+      213: 6398685867554312983
+    second: level_up_102x135_25
+  - first:
+      213: 3363286700575585196
+    second: level_up_102x135_26
+  - first:
+      213: 6221141709320284820
+    second: level_up_102x135_27
+  - first:
+      213: 7279195886135047875
+    second: level_up_102x135_28
+  - first:
+      213: -9153322749097090961
+    second: level_up_102x135_29
+  - first:
+      213: 3358241926660032656
+    second: level_up_102x135_30
+  - first:
+      213: 4069892154647640100
+    second: level_up_102x135_31
+  - first:
+      213: -1266580980843501826
+    second: level_up_102x135_32
+  - first:
+      213: -3095219563576811386
+    second: level_up_102x135_33
+  - first:
+      213: -6169135889263528363
+    second: level_up_102x135_34
+  - first:
+      213: 5460821275346648634
+    second: level_up_102x135_35
+  - first:
+      213: 6800435526995861810
+    second: level_up_102x135_36
+  - first:
+      213: -5672206975180506934
+    second: level_up_102x135_37
+  - first:
+      213: 2287564066028643134
+    second: level_up_102x135_38
+  - first:
+      213: -4597863433648494074
+    second: level_up_102x135_39
+  - first:
+      213: -8264354785758889825
+    second: level_up_102x135_40
+  - first:
+      213: 8810611685506915566
+    second: level_up_102x135_41
+  - first:
+      213: -4662221641523857329
+    second: level_up_102x135_42
+  - first:
+      213: 1215193149117269280
+    second: level_up_102x135_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level_up_102x135_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1215
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704b209a5c1d2d242b00a343596eb181
+      internalID: 3454036058413189537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1215
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03396654d4a632d45b42ef19e894a7e7
+      internalID: -7065446674980967489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1215
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14632f4d7e129274caf056ddae0ed998
+      internalID: -4196844012858689321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1215
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1be979dac722348b305c72da450189
+      internalID: 7434712520758749743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee37d6b8053a946af8f93c069e575c
+      internalID: 8260995008754007710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1080
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49db8ecf2db1474baba506f898719cc
+      internalID: 8087773454047918778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1080
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fdf05b209b01149aa21e6f0e51b90a
+      internalID: 8380584696595592535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1080
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6178a90cdca69ff4dafaa8adeda00eab
+      internalID: 2657067228840774429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1080
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b627dc2abc6fe3547bfb83e27b95cd07
+      internalID: -5286344951706033050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b9d3d0e0666441ad1cceb7bebe99e
+      internalID: 5369247060774884803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 945
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a875837cf7e5ca4e996b3d76e19c899
+      internalID: 2447063198822146963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 945
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c22e2bf63cad4995e955fc4ac3e80
+      internalID: -5527419007691468770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 945
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb00bf7809f05f4990d8c0206d6e84a
+      internalID: 8284119128304511201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 945
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a2d2a775c7f9741aa3e428624ba3b1
+      internalID: 4370965450260820009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea048d15a091d3418fe49deb7bd266a
+      internalID: -3090034931710107369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 810
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c55e7f80d94441bea5e6556bb74a4
+      internalID: 7029215118494966345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 810
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a5aa6939bd5645a4a9cf8b367a8d4
+      internalID: -8505231899749042716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 810
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bceea908ca4e8045a0f1f68d750204d
+      internalID: -1893856738055674040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 810
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca751a46ecdd4749904113f51fe0d36
+      internalID: 6968187377652674767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3252011c6e39498fd94d62f7c8e14
+      internalID: 8138739536577411194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 675
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111b0028fd8edb4385ab2ce6d8dc194
+      internalID: 6048660316418528257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 675
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0574988fcf0ebd74399db723449472d1
+      internalID: -2103149572722308952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 675
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40823230eddb9ff449ebfff3517cf252
+      internalID: -803125141196540368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 675
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61b4e0a9810c2846a717383735c1202
+      internalID: 8673916484365150367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5af2cd77f2f7c4f9a68bb221122f6a
+      internalID: -1712872809878786653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 540
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c6120ef70de143a41ba0f9f02fe79
+      internalID: 6398685867554312983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 540
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf2f473f4975da4aab9d94370cdcf79
+      internalID: 3363286700575585196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 540
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514d771da7816cd4ebab5b6902c01c34
+      internalID: 6221141709320284820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 540
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec01d29114b4995459366a33a5c66bb5
+      internalID: 7279195886135047875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0e3a5735e86044a7da967aadf51cb
+      internalID: -9153322749097090961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 405
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281738fba6bf6f459e3aa8d7c3dee34
+      internalID: 3358241926660032656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 405
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba082ee5a883ab47beaa27b7c2e67b2
+      internalID: 4069892154647640100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 405
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c366f4e723cc184abcdd4bc44938d10
+      internalID: -1266580980843501826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 405
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d7191803218c4588859242e852124
+      internalID: -3095219563576811386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1539b0445b29b4c48a20a7a00237d568
+      internalID: -6169135889263528363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 270
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743c26ef596feca4bb47e7948c482219
+      internalID: 5460821275346648634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 270
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be726ac49d85a3945bb0442789232168
+      internalID: 6800435526995861810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 270
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e82b930ce525a842b64075e7cacd347
+      internalID: -5672206975180506934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 270
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2fde845f461c5479fde169744481b1
+      internalID: 2287564066028643134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f6307138ede04aa07d8cfe34d986d
+      internalID: -4597863433648494074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0457e1f09717b4a4ab8db29695d2bed2
+      internalID: -8264354785758889825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 135
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bcf8778e3a0c540963516666c79073
+      internalID: 8810611685506915566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 135
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e21bc69cf0fe448f9c6b7cf28d89e
+      internalID: -4662221641523857329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_up_102x135_43
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 135
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af569bb01d5da044c81b5abacf5918d9
+      internalID: 1215193149117269280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6aa6e265d189e7045846ab82b973c931
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

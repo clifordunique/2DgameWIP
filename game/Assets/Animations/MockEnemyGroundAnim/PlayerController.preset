@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerController
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 0703368207ce3184590a1e715b022219,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: speed
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: jumpForce
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: extraJumpValue
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: extraJump
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: grounded
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: groundCheck
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: groundCheckRadius
+    value: 0.06
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layerGround.m_Bits
+    value: 512
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layerEnemies.m_Bits
+    value: 4096
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: speedMod
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallMultiplier
+    value: 2.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: attacking
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: staggered
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: inAction
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: arrowPrefab
+    value: 
+    objectReference: {fileID: 6777123250252653073, guid: 7b76e612f91c54e489aad9ce63603e13,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: fireballPrefab
+    value: 
+    objectReference: {fileID: 7957150062032387841, guid: 2bfa5636723ca2d42ac53c0c1b00ea8e,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: thunderPrefab
+    value: 
+    objectReference: {fileID: 8019215997812291231, guid: 19da37f3da397da4b8e281c819f06302,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: slashPrefab
+    value: 
+    objectReference: {fileID: 8870692035375684897, guid: 6a90d25b9b4e4de42a6b0a027969b380,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: DustEffectsJump
+    value: 
+    objectReference: {fileID: 5142044245945928968, guid: 9d05e5be3c00ad449b914a28089b6785,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: DustEffectsWalk
+    value: 
+    objectReference: {fileID: 4139276841452732161, guid: 722c8430c38cd804b8c8d38c4e10ecb5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: startTimeBetweenTrails
+    value: 0.2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meleeDamage
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: rangedDamage
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meleeHit1Pos
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meleeHit2Pos
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meleeHit3Pos
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: jumpAttackRange
+    value: 0.4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: baseArrowForce
+    value: 120
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: currentSpell
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: jumpAttackPos
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: inCombat
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sliding
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: slidingForce
+    value: 140
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: frontCheck
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: wallCheckRadius
+    value: 0.05
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: wallSlidingSpeed
+    value: 0.8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: wallJumpForce
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: camAnim
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: animationState
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: noOfClicksCombat
+    value: 0
+    objectReference: {fileID: 0}

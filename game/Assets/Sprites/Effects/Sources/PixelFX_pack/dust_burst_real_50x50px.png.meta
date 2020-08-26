@@ -1,0 +1,1685 @@
+fileFormatVersion: 2
+guid: c892e2be953b7cf4884d071488b8656c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8426607352457081943
+    second: dust_burst_real_50x50px_0
+  - first:
+      213: 5236298741386535611
+    second: dust_burst_real_50x50px_1
+  - first:
+      213: 6958275214956605249
+    second: dust_burst_real_50x50px_2
+  - first:
+      213: 6924590352899223866
+    second: dust_burst_real_50x50px_3
+  - first:
+      213: 6420325562373223152
+    second: dust_burst_real_50x50px_4
+  - first:
+      213: -2696503499275290930
+    second: dust_burst_real_50x50px_5
+  - first:
+      213: -3030100644383475816
+    second: dust_burst_real_50x50px_6
+  - first:
+      213: -4486332002332036044
+    second: dust_burst_real_50x50px_7
+  - first:
+      213: -6652661169751241415
+    second: dust_burst_real_50x50px_8
+  - first:
+      213: 3661812430631470861
+    second: dust_burst_real_50x50px_9
+  - first:
+      213: -5682191250064825498
+    second: dust_burst_real_50x50px_10
+  - first:
+      213: 6197803252402706608
+    second: dust_burst_real_50x50px_11
+  - first:
+      213: -1044305339626205908
+    second: dust_burst_real_50x50px_12
+  - first:
+      213: -1239060431779610801
+    second: dust_burst_real_50x50px_13
+  - first:
+      213: -6330076948312555258
+    second: dust_burst_real_50x50px_14
+  - first:
+      213: -4162189975862237221
+    second: dust_burst_real_50x50px_15
+  - first:
+      213: 1074846424273441632
+    second: dust_burst_real_50x50px_16
+  - first:
+      213: 7259173835663620641
+    second: dust_burst_real_50x50px_17
+  - first:
+      213: -3122623428521853114
+    second: dust_burst_real_50x50px_18
+  - first:
+      213: -5064650702758127238
+    second: dust_burst_real_50x50px_19
+  - first:
+      213: 5086687247998698934
+    second: dust_burst_real_50x50px_20
+  - first:
+      213: 897725467251899608
+    second: dust_burst_real_50x50px_21
+  - first:
+      213: 9199880989897430932
+    second: dust_burst_real_50x50px_22
+  - first:
+      213: -9106815050490063055
+    second: dust_burst_real_50x50px_23
+  - first:
+      213: 43688795086420020
+    second: dust_burst_real_50x50px_24
+  - first:
+      213: -7792590133552493145
+    second: dust_burst_real_50x50px_25
+  - first:
+      213: 8930133807855212847
+    second: dust_burst_real_50x50px_26
+  - first:
+      213: -4408678242772353730
+    second: dust_burst_real_50x50px_27
+  - first:
+      213: 7508046758098457851
+    second: dust_burst_real_50x50px_28
+  - first:
+      213: -8332541495692782350
+    second: dust_burst_real_50x50px_29
+  - first:
+      213: -4931624458313030540
+    second: dust_burst_real_50x50px_30
+  - first:
+      213: -5753141489317750395
+    second: dust_burst_real_50x50px_31
+  - first:
+      213: -1330807519486968855
+    second: dust_burst_real_50x50px_32
+  - first:
+      213: 1740778416761088171
+    second: dust_burst_real_50x50px_33
+  - first:
+      213: 8095595667372145623
+    second: dust_burst_real_50x50px_34
+  - first:
+      213: 554806248055918039
+    second: dust_burst_real_50x50px_35
+  - first:
+      213: -7275172787868509994
+    second: dust_burst_real_50x50px_36
+  - first:
+      213: 1371552689723738177
+    second: dust_burst_real_50x50px_37
+  - first:
+      213: -2166852601598445813
+    second: dust_burst_real_50x50px_38
+  - first:
+      213: 3878074740514131087
+    second: dust_burst_real_50x50px_39
+  - first:
+      213: -3749362630156484399
+    second: dust_burst_real_50x50px_40
+  - first:
+      213: 2510717377290621554
+    second: dust_burst_real_50x50px_41
+  - first:
+      213: 9083102000113549952
+    second: dust_burst_real_50x50px_42
+  - first:
+      213: -6527031101699917181
+    second: dust_burst_real_50x50px_43
+  - first:
+      213: -7622393770817820125
+    second: dust_burst_real_50x50px_44
+  - first:
+      213: -8275111753744198808
+    second: dust_burst_real_50x50px_45
+  - first:
+      213: -2232218794774836039
+    second: dust_burst_real_50x50px_46
+  - first:
+      213: 2208447572996328026
+    second: dust_burst_real_50x50px_47
+  - first:
+      213: -5103108480782314830
+    second: dust_burst_real_50x50px_48
+  - first:
+      213: -8198628931862646273
+    second: dust_burst_real_50x50px_49
+  - first:
+      213: 6090274977595558040
+    second: dust_burst_real_50x50px_50
+  - first:
+      213: -3618496552209902505
+    second: dust_burst_real_50x50px_51
+  - first:
+      213: -3376579302095882644
+    second: dust_burst_real_50x50px_52
+  - first:
+      213: -1701900593035502592
+    second: dust_burst_real_50x50px_53
+  - first:
+      213: -9128462059713322673
+    second: dust_burst_real_50x50px_54
+  - first:
+      213: 1247675015239302789
+    second: dust_burst_real_50x50px_55
+  - first:
+      213: -5318199657963579988
+    second: dust_burst_real_50x50px_56
+  - first:
+      213: -8192758731329634343
+    second: dust_burst_real_50x50px_57
+  - first:
+      213: -2956470759863997756
+    second: dust_burst_real_50x50px_58
+  - first:
+      213: 6574276291202892080
+    second: dust_burst_real_50x50px_59
+  - first:
+      213: -2540483773017680131
+    second: dust_burst_real_50x50px_60
+  - first:
+      213: 4203024233675813624
+    second: dust_burst_real_50x50px_61
+  - first:
+      213: -8837536271293388023
+    second: dust_burst_real_50x50px_62
+  - first:
+      213: -4440791528671241753
+    second: dust_burst_real_50x50px_63
+  - first:
+      213: 4298558161620806784
+    second: dust_burst_real_50x50px_64
+  - first:
+      213: -796775754459348359
+    second: dust_burst_real_50x50px_65
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_0
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 279.16666
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db16081d83df1048957402ff5e0bc9d
+      internalID: -8426607352457081943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 279.16666
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e000a77a488e804a817bd178188ffe2
+      internalID: 5236298741386535611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 279.16666
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdbd7dbc72771c4b95c57592b36e68e
+      internalID: 6958275214956605249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690014b6788f9eb46821a8c6983eb9ad
+      internalID: 6924590352899223866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc49b62105a60c4ca332a933e2628b6
+      internalID: 6420325562373223152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1183effebab82042b5897ea8a104094
+      internalID: -2696503499275290930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b0a8951f1069346baa565a511938b2
+      internalID: -3030100644383475816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf7fb59bf4b11419866ed304244206
+      internalID: -4486332002332036044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99820e6c01847c243bfc98c697486135
+      internalID: -6652661169751241415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64679e4ad4069dd44af85d1d144860a1
+      internalID: 3661812430631470861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e961b6e8b5354496e217a876b718e
+      internalID: -5682191250064825498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40a7e809aa2fb24281f34038b7c1a3f
+      internalID: 6197803252402706608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf67d15098f36ab44a7d49e3f57f3021
+      internalID: -1044305339626205908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cf52e4f5a703e4cb8038f43099ce9a
+      internalID: -1239060431779610801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 234.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4def7070a98146a913973e27192e2
+      internalID: -6330076948312555258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f15ed0e83147b45bc8de9cb89d451a
+      internalID: -4162189975862237221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b37f5ce502e17c469cdd17daded6c2a
+      internalID: 1074846424273441632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19c532f9f56c74a87ff1078d99ba79
+      internalID: 7259173835663620641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f659706d36818a649a30b148cb2501e6
+      internalID: -3122623428521853114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d554524c3c6d34cb9efac71123e826
+      internalID: -5064650702758127238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba1e52781b37b140bfe396982b131a3
+      internalID: 5086687247998698934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d694caa9d9334b93f8af84eef0dfd
+      internalID: 897725467251899608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b63b1266ac1070408034e3fda834589
+      internalID: 9199880989897430932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be4d2ed4e2f1641ac8517028579db8
+      internalID: -9106815050490063055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ce57b2159e6ef4e8a9db197b2e7b92
+      internalID: 43688795086420020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5f5c06c6b32e46ad2b1af4a274888
+      internalID: -7792590133552493145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 189.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec4911ded29a6041b1542274ea935a4
+      internalID: 8930133807855212847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b408628d9192ce849aa30d13abde46c6
+      internalID: -4408678242772353730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85901781e3609b34c8bf350d4c7d3394
+      internalID: 7508046758098457851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68b4b1c5b40604f8a674976a5c2252
+      internalID: -8332541495692782350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a69b761862a7644ab7a6871acbb0a5e
+      internalID: -4931624458313030540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8185fc9a9db1848878967ffdda27cc
+      internalID: -5753141489317750395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e08b007d30410142846321e8f25f00b
+      internalID: -1330807519486968855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9e4bdbbec23e444a04efdf3aafdd14
+      internalID: 1740778416761088171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05536570e9cf847a2ae4de8b3c56e8
+      internalID: 8095595667372145623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d548999c5c7f1445a701b03d981d5c9
+      internalID: 554806248055918039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565a3fc361d224b45bb08193887549da
+      internalID: -7275172787868509994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cde3953581bc4439706d8be3cf041f
+      internalID: 1371552689723738177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 144.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e11d60ea7d89274a9147065d3b04b0b
+      internalID: -2166852601598445813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce36bb11e043184ab4c01160b4c5ec6
+      internalID: 3878074740514131087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d56c0ab528af4046a73484b129f9c68
+      internalID: -3749362630156484399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54275584240d4b45a4e4664c298a912
+      internalID: 2510717377290621554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7ad0405c96d1244a2c7218f7fe701c
+      internalID: 9083102000113549952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138cab4f4e1a0c747a0576c1518d599a
+      internalID: -6527031101699917181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f5ad904570f024aaa4b3e5ca55eddb
+      internalID: -7622393770817820125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c713eeb29d100e042a57edc83629e804
+      internalID: -8275111753744198808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e1dd5e238dce44afc105efbc62b4d
+      internalID: -2232218794774836039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee11f0df34425e439d0592b5377a06c
+      internalID: 2208447572996328026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_48
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9070fb864510045ba385c10f6b4238
+      internalID: -5103108480782314830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab804eaa194534cb5b6237799edb9b
+      internalID: -8198628931862646273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_50
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 99.16667
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b7d5c2270872143a60622f6088dfa0
+      internalID: 6090274977595558040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a01c4199b1874c9b60752628d94be
+      internalID: -3618496552209902505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971ea38827db4f94488ac11603078f51
+      internalID: -3376579302095882644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9f481730fbcd4a946b436e832487c
+      internalID: -1701900593035502592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcfc6deb37dc6345b21389cebb29887
+      internalID: -9128462059713322673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40163e260f67804db6b2ae7011d5716
+      internalID: 1247675015239302789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dffe6ba7c980aa4d9aa0cb4eaa1b82a
+      internalID: -5318199657963579988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c395d05df3e6444a8109953ea2a97c5
+      internalID: -8192758731329634343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b72aaa48c4b44247905a3e65334a64a
+      internalID: -2956470759863997756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ddd24403531e48b76508d1bdacaea
+      internalID: 6574276291202892080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_60
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda968b10f9bb6040ae3c8f7884d38b1
+      internalID: -2540483773017680131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_61
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2fb7b482915340a658ac459d59f06
+      internalID: 4203024233675813624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 54.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe323fabf8227d4187a8a64f58a43a0
+      internalID: -8837536271293388023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb7003451475348a3df2d24bd04ccf
+      internalID: -4440791528671241753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c359ddaf5051324e93e17eea849be28
+      internalID: 4298558161620806784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_burst_real_50x50px_65
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 9.166668
+        width: 45.833332
+        height: 45.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fdeaa69c0adc044be886cb1dc862d9
+      internalID: -796775754459348359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 832f0428edc367c42af3577edf6b2297
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

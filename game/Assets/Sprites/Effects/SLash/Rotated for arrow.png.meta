@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 2bbcd7a2f159e774e803c4ad86f806aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5755443676137510699
+    second: Rotated for arrow_0
+  - first:
+      213: 7825219296913417403
+    second: Rotated for arrow_1
+  - first:
+      213: 513797640659439965
+    second: Rotated for arrow_2
+  - first:
+      213: 3853745795346050221
+    second: Rotated for arrow_3
+  - first:
+      213: -7643760183094898296
+    second: Rotated for arrow_4
+  - first:
+      213: -3316348124585932576
+    second: Rotated for arrow_5
+  - first:
+      213: -3107321155140343448
+    second: Rotated for arrow_6
+  - first:
+      213: 6897275002970405746
+    second: Rotated for arrow_7
+  - first:
+      213: -7298243539394055805
+    second: Rotated for arrow_8
+  - first:
+      213: -385089760820320528
+    second: Rotated for arrow_9
+  - first:
+      213: -8086896121645734991
+    second: Rotated for arrow_10
+  - first:
+      213: -1980623542074064245
+    second: Rotated for arrow_11
+  - first:
+      213: 5736110421545653576
+    second: Rotated for arrow_12
+  - first:
+      213: 2733127327025553660
+    second: Rotated for arrow_13
+  - first:
+      213: -5103583992509671893
+    second: Rotated for arrow_14
+  - first:
+      213: 2333392098087402206
+    second: Rotated for arrow_15
+  - first:
+      213: -1806728624550918817
+    second: Rotated for arrow_16
+  - first:
+      213: -3635751875142448877
+    second: Rotated for arrow_17
+  - first:
+      213: -210254306018996325
+    second: Rotated for arrow_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rotated for arrow_0
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 312
+        width: 163
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f078cf946c113d84697f139253774848
+      internalID: -5755443676137510699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 280
+        width: 61
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb877e494845f9b42831cd71eaf363a8
+      internalID: 7825219296913417403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 270
+        width: 100
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af187509584df454b9e42778ab314430
+      internalID: 513797640659439965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 263
+        width: 43
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e5d81fc0a1ddd408fbe1743985dd16
+      internalID: 3853745795346050221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 225
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a29d28d4786214f8d968224396b67d
+      internalID: -7643760183094898296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 216
+        width: 96
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b755f326de2f5448d1f2fc430b4305
+      internalID: -3316348124585932576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 209
+        width: 38
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb6319a9b575f347bdddbc67ae2f483
+      internalID: -3107321155140343448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 170
+        width: 85
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09e2b78948a484fa889ae5e2433337
+      internalID: 6897275002970405746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 162
+        width: 89
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b804890ad0138f49b2b0c4abfcb559e
+      internalID: -7298243539394055805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 155
+        width: 35
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696072d1c052f214385472986623ec95
+      internalID: -385089760820320528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 116
+        width: 95
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3651a092509e1e14bb8a85bdc6a2c140
+      internalID: -8086896121645734991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 107
+        width: 83
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa112deb0ea05498f2b8092c11c34d
+      internalID: -1980623542074064245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 101
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaa71958bd03d34e892044b0575529e
+      internalID: 5736110421545653576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 61
+        width: 107
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e545ec79f4baa64a850b7f541c1204a
+      internalID: 2733127327025553660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 53
+        width: 75
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee11af4dda6e8ad48820b4a2d70b63f3
+      internalID: -5103583992509671893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 46
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d200708e424d46b8d0759a934d05d
+      internalID: 2333392098087402206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 94
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43f7f24cc39e042a5b7934e371dd6d
+      internalID: -1806728624550918817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 6
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb0d2f80644b146ad9081fe493cc8c
+      internalID: -3635751875142448877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotated for arrow_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 70
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc55c3fec04738428a369af6c40560a
+      internalID: -210254306018996325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 37f0cc83d0a8bdb4ca062171772e6092
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

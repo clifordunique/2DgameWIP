@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7529118079032631051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4450970900882342349}
+  - component: {fileID: 3651169799438438543}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4450970900882342349
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7529118079032631051}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.4663519, y: 2.4519985, z: -82.89225}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3651169799438438543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7529118079032631051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bff4b9d1bda4564488d2760e70810602, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: ShootArrowAudio1
+    clip: {fileID: 8300000, guid: 6b9fae4495598fa4caccfe74d1d1cef5, type: 3}
+    volume: 0.2
+    pitch: 1.55
+    source: {fileID: 0}
+  - name: ShootArrowAudio2
+    clip: {fileID: 8300000, guid: 5fc221d548f290a4997df01d98b7046f, type: 3}
+    volume: 0.2
+    pitch: 1.55
+    source: {fileID: 0}
+  - name: BasicHit1Audio
+    clip: {fileID: 8300000, guid: e92e98c44c72faa4993cfcebf2140a68, type: 3}
+    volume: 0.2
+    pitch: 1.5
+    source: {fileID: 0}
+  - name: BasicHit2Audio
+    clip: {fileID: 8300000, guid: 53f36fe88947a4e459cf61a4b888e2e2, type: 3}
+    volume: 0.2
+    pitch: 1.5
+    source: {fileID: 0}
+  - name: BasicHit3Audio
+    clip: {fileID: 8300000, guid: 5344d631a16afe242824ea9d8818e098, type: 3}
+    volume: 0.2
+    pitch: 1.5
+    source: {fileID: 0}
+  - name: PlayerDieAudio
+    clip: {fileID: 8300000, guid: 75c16c9d5e0f6f34c9ba759765bc1c17, type: 3}
+    volume: 0.2
+    pitch: 1.55
+    source: {fileID: 0}
+  - name: PlayerLevelUpAudio
+    clip: {fileID: 8300000, guid: 580477bcc5e1b3b42bb2ed8d5e1beb83, type: 3}
+    volume: 0.2
+    pitch: 1.55
+    source: {fileID: 0}
+  - name: PlayerHurtAudio
+    clip: {fileID: 8300000, guid: 851aa6f4b034cb74386e434e8e8e89ef, type: 3}
+    volume: 0.7
+    pitch: 0.82
+    source: {fileID: 0}
+  - name: ArrowOnHitAudio1
+    clip: {fileID: 8300000, guid: e68deada8e00f0e4993bbd4e3b6b6235, type: 3}
+    volume: 0.7
+    pitch: 2
+    source: {fileID: 0}
+  - name: ArrowOnHitAudio2
+    clip: {fileID: 8300000, guid: 18596506d4fc1c646a9aad6f26ed5109, type: 3}
+    volume: 0.7
+    pitch: 2
+    source: {fileID: 0}
+  - name: MeleeOnHitAudio1
+    clip: {fileID: 8300000, guid: bdf3ae3c4b4efc743918b4615c888684, type: 3}
+    volume: 0.7
+    pitch: 2
+    source: {fileID: 0}
+  - name: MeleeOnHitAudio2
+    clip: {fileID: 8300000, guid: 302446d7a2c46df4babec134b7972659, type: 3}
+    volume: 0.7
+    pitch: 2
+    source: {fileID: 0}
+  - name: MeleeOnHitAudio3
+    clip: {fileID: 8300000, guid: 1933c4951a3fe5841b1d751fffa6e308, type: 3}
+    volume: 0.7
+    pitch: 2
+    source: {fileID: 0}
+  - name: PlayerDieAudio
+    clip: {fileID: 8300000, guid: 75c16c9d5e0f6f34c9ba759765bc1c17, type: 3}
+    volume: 0.7
+    pitch: 1.55
+    source: {fileID: 0}
+  - name: PlayerDieAudio
+    clip: {fileID: 8300000, guid: 75c16c9d5e0f6f34c9ba759765bc1c17, type: 3}
+    volume: 0.7
+    pitch: 1.55
+    source: {fileID: 0}
