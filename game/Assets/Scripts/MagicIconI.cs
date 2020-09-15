@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Events;
 
 public class MagicIconI : MonoBehaviour
 {
     public static MagicIconI Instance { get; private set; }
     private int spellNo;
     Image image;
-
+    PlayerSpellsManager spells;
     public Sprite[] magicSpells;
     void Awake()
     {
@@ -18,11 +19,12 @@ public class MagicIconI : MonoBehaviour
     {
         image = GetComponent<Image>();
         image.enabled = true;
-        image.sprite = magicSpells[Spells.Instance.currentSpell[1]];
+        spells = FindObjectOfType<PlayerSpellsManager>();
+        image.sprite = magicSpells[spells.currentSpell[1]];
     }
-    public void UpdateIcon()
+    void UpdateIcon()
     {
-        image.sprite = magicSpells[Spells.Instance.currentSpell[1]];
+        image.sprite = magicSpells[spells.currentSpell[1]];
     }
 
 

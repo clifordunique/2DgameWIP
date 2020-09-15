@@ -6,6 +6,7 @@ public class EnemyProjectile : MonoBehaviour
 {
     Rigidbody2D rigidbody2d;
     public int damage = 0;
+    public bool destroyOnContactWithGroundLayer;
 
     void Awake()
     {
@@ -31,20 +32,20 @@ public class EnemyProjectile : MonoBehaviour
     {
         Enemy enemy = other.gameObject.GetComponent<Enemy>();
         PlayerController player = other.gameObject.GetComponent<PlayerController>();
+        Debug.Log("collision: " + other.gameObject);
 
         if (player != null)
         {
             player.TakeDamage(damage);
-            Debug.Log("Ouchie");        
+            Debug.Log("Ouchie");
+            Destroy(gameObject);
         }
-        else if (enemy != null)
+        if (destroyOnContactWithGroundLayer)
         {
-            //wont hit itself and other enemies
-            return;
+            Destroy(gameObject);
         }
-        Destroy(gameObject);
 
-        Debug.Log("collision: " + other.gameObject);
+        
     }
 
     public void Fired(Vector2 direction, float force)

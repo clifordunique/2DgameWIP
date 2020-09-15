@@ -9,8 +9,10 @@ public class MagicIcon : MonoBehaviour
     public int spellNo;
     Button button;
     private ColorBlock cb;
+    PlayerSpellsManager spells;
     void Start()
     {
+        spells = FindObjectOfType<PlayerSpellsManager>();
         button = GetComponent<Button>();
         cb = button.colors;
     }
@@ -18,7 +20,7 @@ public class MagicIcon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Spells.Instance.currentSpell[0] == spellNo - 1 || Spells.Instance.currentSpell[1] == spellNo - 1)
+        if (spells.currentSpell[0] == spellNo - 1 || spells.currentSpell[1] == spellNo - 1)
         {
             cb.normalColor = Color.white;
             button.colors = cb;

@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour
     //public AudioManager xadada;
     public enum AnimState {IDLE, MOVING, INAIR, FALLING, WALLSLIDING};
     //jump
+    [Header("Jumping")]
     public float jumpForce;
     public int extraJumpValue;
     public int extraJump;
@@ -33,11 +34,16 @@ public class PlayerController : MonoBehaviour
     public GameObject boostAnim;
 
     //groundsensor
+    [Header("GroundSensor")]
     public bool grounded;
     public Transform groundCheck;
     public float groundCheckRadius;
     public LayerMask layerGround;
     public LayerMask layerEnemies;
+
+    [Header("EquippedSpells")]
+    //public Spells spell1;
+    //public Spells spell2;
 
     private Animator animator;
     private Rigidbody2D body2d;
@@ -112,7 +118,6 @@ public class PlayerController : MonoBehaviour
 
     bool wallJumping;
 
-
     public Animator camAnim;
 
     private Vector2 lookdirectionVector2 = new Vector2(1, 0);
@@ -134,9 +139,12 @@ public class PlayerController : MonoBehaviour
     Vector2 originalColliderOffset;
     Vector2 originalColliderSize;
 
-    public Spells spells;
+    public PlayerSpellsManager spells;
     private enum SpellInput {U, I};
     private SpellInput spellInput;
+
+    private float cooldown1;
+    private float cooldown2;
     // Use this for initialization
     void Start()
     {        
@@ -168,7 +176,7 @@ public class PlayerController : MonoBehaviour
         cap2d = GetComponent<CapsuleCollider2D>();
         health = new HealthSystem(playerBaseHealth);
 
-        spells = GetComponent<Spells>();
+        spells = GetComponent<PlayerSpellsManager>();
 
         originalColliderOffset = cap2d.offset;
         originalColliderSize = cap2d.size;
@@ -323,14 +331,9 @@ public class PlayerController : MonoBehaviour
                 RaycastHit2D hit = Physics2D.Raycast(body2d.position, Vector2.down, 1.2f, layerGround);
                 if (hit.collider == null)
                 {
-                    lastClickedTime = Time.time;
-                    noOfClicksCombat++;
+                    animator.SetTrigger("JumpAttack");
                 }
-                    if (noOfClicksCombat == 1)
-                    {
-                        animator.SetBool("JumpAttack1", true);
-                    }
-                    noOfClicksCombat = Mathf.Clamp(noOfClicksCombat, 0, 3);            
+         
             }
             if (!attacking && !inAction)
             {
@@ -373,33 +376,35 @@ public class PlayerController : MonoBehaviour
     {
         if (spellInput == SpellInput.U)
         {
-            switch (Spells.Instance.currentSpell[0])
+            switch (spells.currentSpell[0])
             {
-                case (int)Spells.MagicSpells.FIRESTRIKE:
+                case (int)PlayerSpellsManager.MagicSpells.FIRESTRIKE:
+                    MagicIconU.Instance.cooldown += 3f;
                     LaunchFireball();
                     break;
 
-                case (int)Spells.MagicSpells.THUNDERSTRIKE:
+                case (int)PlayerSpellsManager.MagicSpells.THUNDERSTRIKE:
                     ThunderStrike();
                     break;
 
-                case (int)Spells.MagicSpells.BOOSTSELF:
+                case (int)PlayerSpellsManager.MagicSpells.BOOSTSELF:
                     BoostSelf();
                     break;
             }
-        }else if (spellInput == SpellInput.I)
+        }
+        else if (spellInput == SpellInput.I)
         {
             switch (spells.currentSpell[1])
             {
-                case (int)Spells.MagicSpells.FIRESTRIKE:
+                case (int)PlayerSpellsManager.MagicSpells.FIRESTRIKE:
                     LaunchFireball();
                     break;
 
-                case (int)Spells.MagicSpells.THUNDERSTRIKE:
+                case (int)PlayerSpellsManager.MagicSpells.THUNDERSTRIKE:
                     ThunderStrike();
                     break;
 
-                case (int)Spells.MagicSpells.BOOSTSELF:
+                case (int)PlayerSpellsManager.MagicSpells.BOOSTSELF:
                     BoostSelf();
                     break;
             }
@@ -421,7 +426,10 @@ public class PlayerController : MonoBehaviour
     }
     //body2d.velocity = new Vector2(horizontalInput * speed * speedMod, body2d.velocity.y);
    
-
+    private void UltPrep()
+    {
+        animator.SetTrigger("ultPrep");
+    }
 
     private void Slide()
     {
@@ -479,8 +487,7 @@ public class PlayerController : MonoBehaviour
 
     //Magic attack
     public void LaunchFireball()
-    {
-        
+    {       
         Fireball fireball = Instantiate(fireballPrefab, body2d.position + new Vector2(GetLookDirection() * 0.5f, -0.13f), Quaternion.identity).GetComponent<Fireball>();
 
         fireball.transform.localScale = transform.localScale;
@@ -663,7 +670,47 @@ else if (nextToWallInAir)
     {
         wallJumping = false;
     }
-
+    //    public void MeleeCombo(int i)
+    //{
+    //    if (noOfClicksCombat >= i + 1)
+    //    {
+    //        animator.SetBool("Attack" + i.ToString(), false);
+    //        //so that the 3rd attack wont come even if the player click 3 times during the first attack, which would feel unnatural
+    //        noOfClicksCombat = i + 1;
+    //    }
+    //    else
+    //    {
+    //        for (int j = 1 ; j < i ; j++) 
+    //        {
+    //            animator.SetBool("Attack" + j.ToString(), false);
+    //            noOfClicksCombat = 0;
+    //        }
+            
+    //        animator.SetBool("InCombat", true);
+    //        CancelInvoke("OutOfCombat");
+    //        Invoke("OutOfCombat", inCombatTimer);
+    //    }
+    //}
+    public void MeleeCombo(int i)
+    {
+        if (noOfClicksCombat >= i + 1)
+        {
+            animator.SetBool("Attack" + (i + 1).ToString(), true);
+            //so that the 3rd attack wont come even if the player click 3 times during the first attack, which would feel unnatural
+            noOfClicksCombat = i + 1;
+        }
+        else
+        {
+            for (int j = 1; j < i; j++)
+            {
+                animator.SetBool("Attack" + j.ToString(), false);
+                noOfClicksCombat = 0;
+            }
+            animator.SetBool("InCombat", true);
+            CancelInvoke("OutOfCombat");
+            Invoke("OutOfCombat", inCombatTimer);
+        }
+    }
     public void MeleeCombo1()
     {
         if (noOfClicksCombat >= 2)
@@ -701,7 +748,6 @@ else if (nextToWallInAir)
     }
     public void MeleeCombo3()
     {
-
         animator.SetBool("Attack1", false);
         animator.SetBool("Attack2", false);
         animator.SetBool("Attack3", false);
@@ -716,55 +762,6 @@ else if (nextToWallInAir)
         animator.SetBool("InCombat",false);
     }
 
-
-    public void JumpCombo1()
-    {
-        if (noOfClicksCombat >= 2)
-        {
-            animator.SetBool("JumpAttack2", true);
-            //so that the 3rd attack wont come even if the player click 3 times during the first attack, which would feel unnatural
-            noOfClicksCombat = 2;
-        }
-        else
-        {
-            animator.SetBool("JumpAttack1", false);
-            noOfClicksCombat = 0;
-            animator.SetBool("InCombat", true);
-            CancelInvoke("OutOfCombat");
-            Invoke("OutOfCombat", inCombatTimer);
-
-        }
-    }
-    public void JumpCombo2()
-    {
-        RaycastHit2D hit = Physics2D.Raycast(body2d.position, Vector2.down, 2f, layerGround);
-        if (noOfClicksCombat >= 3 && hit.collider == null && !nextToWallInAir)
-        {
-            animator.SetBool("JumpAttack3", true);
-        }
-        else
-        {
-            animator.SetBool("JumpAttack1", false);
-            animator.SetBool("JumpAttack2", false);
-            noOfClicksCombat = 0;
-            animator.SetBool("InCombat", true);
-            CancelInvoke("OutOfCombat");
-            Invoke("OutOfCombat", inCombatTimer);
-
-        }
-    }
-    public void JumpCombo3()
-    {
-
-        animator.SetBool("JumpAttack1", false);
-        animator.SetBool("JumpAttack2", false);
-        animator.SetBool("JumpAttack3", false);
-
-        noOfClicksCombat = 0;
-        animator.SetBool("InCombat", true);
-        CancelInvoke("OutOfCombat");
-        Invoke("OutOfCombat", inCombatTimer);
-    }
 
     public void MeleeHit1()
     {
@@ -792,18 +789,11 @@ else if (nextToWallInAir)
         PlayAudio("BasicHit3Audio");
     }
 
-    public void JumpHit1()
+    public void JumpHit()
     {
         Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(meleeHitPos.position, meleeHitRange, layerEnemies);
         MeleeDamage(enemiesToDamage);
         PlayAudio("BasicHit1Audio");
-    }
-
-    public void JumpHit2()
-    {
-        Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(meleeHitPos.position, meleeHitRange, layerEnemies);
-        MeleeDamage(enemiesToDamage);
-        PlayAudio("BasicHit2Audio");
     }
 
     //As Melee attacks should hit all enemies in the area and uses overlap functions, Collider2D[] is used for detecting the enemies 

@@ -52,6 +52,7 @@ public class BasicEnemy : MonoBehaviour
 
         //originalColor = spriteRenderer.color;
 
+        //https://www.youtube.com/watch?v=WgLd6EahyVU
         matWhite = Resources.Load("Effects/WhiteFlash", typeof(Material)) as Material;
         matOriginal = spriteRenderer.material;
         playerTransform = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
@@ -224,7 +225,7 @@ public class BasicEnemy : MonoBehaviour
 
             //so it does not fall under the map as boxcollider2d is now disabled
             //GetComponent<Rigidbody2D>().gravityScale = 0;
-            Destroy(GetComponent<Rigidbody2D>());
+            Destroy(rigidbody2d);
 
             Invoke("Destroy", disappearingDelay);
         }

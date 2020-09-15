@@ -24,6 +24,10 @@ public class FlyingEnemy : BasicEnemy
     // Update is called once per frame
     void Update()
     {
+        //if (playerTransform == null)
+        //{
+        //    GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        //}
 
         if (health.GetHealth() <= 0)
         {
