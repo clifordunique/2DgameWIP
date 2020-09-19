@@ -77,7 +77,7 @@ public class BasicEnemy : MonoBehaviour
         if (!dead)
         {
             health.Damage(damage);
-            GameObject damageText = Instantiate(DamageText,transform.position, Quaternion.identity);
+            GameObject damageText = Instantiate(DamageText, transform.position, Quaternion.identity);
             damageText.transform.GetChild(0).GetComponent<TextMeshPro>().text = damage.ToString();
             if (transform.position.x > playerTransform.position.x)
             {
